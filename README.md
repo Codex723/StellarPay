@@ -112,18 +112,6 @@ The `stellarpay_vault.rs` Soroban contract holds employer funds in escrow and re
 
 ---
 
-## Contributing — Open Issues
-
-| Label | Issue |
-|---|---|
-| **good first issue** | Add TypeScript types for `PayrollConfig` and `InvoiceRecord` |
-| **medium** | Implement multi-recipient batch payment using Soroban contract calls |
-| **hard** | Build a currency auto-conversion module using Stellar DEX path payments |
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions.
-
----
-
 ## Network support
 
 | Network | Status |
