@@ -1,4 +1,4 @@
-# @stellarpay/sdk
+# StellarPay/SDK
 
 **Decentralized payroll & invoicing SDK built on Stellar and Soroban.**
 
